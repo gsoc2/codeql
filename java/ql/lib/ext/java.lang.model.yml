@@ -199,6 +199,7 @@ extensions:
       - ["java.lang", "String", "length", "()", "summary", "manual"]
       - ["java.lang", "String", "startsWith", "(String)", "summary", "manual"]
       - ["java.lang", "String", "valueOf", "(boolean)", "summary", "manual"]
+      - ["java.lang", "String", "valueOf", "(Object)", "summary", "manual"]
       - ["java.lang", "System", "currentTimeMillis", "()", "summary", "manual"]
       - ["java.lang", "System", "exit", "(int)", "summary", "manual"]
       - ["java.lang", "System", "getenv", "(String)", "summary", "manual"]
